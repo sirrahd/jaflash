@@ -1,0 +1,23 @@
+とうきょう	東京	Tokyo
+きょうこ	京子	Kyoko
+こども	子供	child
+きょうこ	京子	Kyoko
+ちいさい	小さい	small
+あう	会う	to meet
+かいしゃ	会社	company
+かいしゃ	会社	company
+ちち	父	father
+おとうさん	お父さん	father
+はは	母	mother
+おかあさん	お母さん	mother
+たかい	高い	expensive
+こうこう	高校	high school
+こうこうせい	高校生	high school student
+がっこう	学校	school
+こうこう	高校	high school
+こうこうせい	高校生	high school student
+まいにち	毎日	every day
+にほんご	日本語	Japanese language
+ぶんがく	文学	literature
+かえる	帰る	to return
+はいる	入る	to enter

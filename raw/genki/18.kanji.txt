@@ -1,0 +1,21 @@
+もくてき	目的	purpose
+め	目	eyes
+もくてき	目的	purpose
+ちからしごと	力仕事	physical labor such as construction
+ようふく	洋服	clothes
+ふく	服	clothes
+ようふく	洋服	Western clothes
+しょくどう	食堂	dining room
+じゅぎょう	授業	class
+じゅぎょう	授業	class
+しけん	試験	exam
+しけん	試験	exam
+かす	貸す	to lend
+としょかん	図書館	library
+ちず	地図	map
+としょかん	図書館	library
+えいがかん	映画館	movie theater
+りょかん	旅館	Japanese inn
+おわる	終わる	to come to an end
+しゅくだい	宿題	homework
+しゅくだい	宿題	homework
