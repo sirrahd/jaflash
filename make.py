@@ -5,7 +5,10 @@ def formatLine(row, filetype):
 	if filetype == 'kanji':
 		row = [row['kanji'], " ".join([row['kana'], row['definition']])]
 	elif filetype == 'vocab':
-		row = [row['kanji'], row['kana'], row['definition']]
+		if row['kanji'] != '':
+			row = [row['kanji'], row['kana'], row['definition']]
+		else:
+			row = [row['kana'], '', row['definition']]
 	return row
 
 def make(outpath, filename, filetype, filedata):
