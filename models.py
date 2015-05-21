@@ -16,18 +16,21 @@ class Word(Base):
 	kanji = Column(String)
 	definition = Column(String)
 	book = Column(String)
+	chapter = Column(String)
+	section = Column(String)
 	owner_id = Column(Integer, ForeignKey('words.id'))
 	owner = relationship('Word', backref='parent', remote_side='Word.id')
 	
-	def __init__(self, kana=None, kanji=None, definition=None, book=None):
+	def __init__(self, kana=None, kanji=None, definition=None, book=None, chapter=None, section=None):
 		self.kana = kana
 		self.kanji = kanji
 		self.definition = definition
 		self.book = book
-		self.owner_id = 0
+		self.chapter = chapter
+		self.section = section
 	
 	def __repr__(self):
-		return "<Word(kana='%s', kanji='%s', definition='%s')>" % (self.kana, self.kanji, self.definition)
+		return "<Word(kana='%s', kanji='%s', definition='%s', book='%s', chapter='%s', section='%s')>" % (self.kana, self.kanji, self.definition, self.book, self.chapter, self.section)
 	
 	def save(self):
 		session.add(self)
@@ -48,18 +51,19 @@ class Word(Base):
 			return None
 	
 	def alreadyExists(self):
-		for word in self.getPotentialDuplicates():
-			if self.kana == word.kana and self.kanji == word.kanji and self.definition == word.definition:
-				return True
-			else:
-				return False
+		if session.query(Word).filter(Word.kana == self.kana, Word.kanji == self.kanji, Word.definition == self.definition).count() > 0:
+			return True
+		else:
+			return False
 		
 	def getPotentialDuplicates(self):
-		kanaDupes = session.query(Word).filter(Word.kana != '', Word.kana == self.kana, Word.owner_id == 0)
-		kanjiDupes = session.query(Word).filter(Word.kanji != '', Word.kanji == self.kanji, Word.owner_id == 0)
-		definitionDupes = session.query(Word).filter(Word.definition != '', Word.definition == self.definition, Word.owner_id == 0)
+		dupes = session.query(Word).filter(Word.kana != None, Word.kana.contains(self.kana), Word.owner_id == None)
+		if self.kanji != '':
+			dupes.union(session.query(Word).filter(Word.kanji != None, Word.kanji.contains(self.kanji), Word.owner_id == None))
+		if self.definition != '':
+			dupes.union(session.query(Word).filter(Word.definition != None, Word.definition.contains(self.definition), Word.owner_id == None))
 		
-		return kanaDupes.union(kanjiDupes, definitionDupes).all()
+		return dupes.all()
 		
 	def getAll():
 		return session.query(Word).all()
