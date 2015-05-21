@@ -7,9 +7,6 @@ from os import path, getcwd
 
 engine = create_engine('sqlite:///' + path.join(getcwd(), 'data.db'))
 Base = declarative_base()
-Base.metadata.create_all(engine)
-Session = sessionmaker(bind=engine)
-session = Session()
 
 class Word(Base):
 	__tablename__ = 'words'
@@ -18,8 +15,16 @@ class Word(Base):
 	kana = Column(String)
 	kanji = Column(String)
 	definition = Column(String)
-	duplicate_id = Column(Integer, ForeignKey('words.id'))
-	duplicate = relationship('Word', backref='parent', remote_side='Word.id')
+	book = Column(String)
+	owner_id = Column(Integer, ForeignKey('words.id'))
+	owner = relationship('Word', backref='parent', remote_side='Word.id')
+	
+	def __init__(self, kana=None, kanji=None, definition=None, book=None):
+		self.kana = kana
+		self.kanji = kanji
+		self.definition = definition
+		self.book = book
+		self.owner_id = 0
 	
 	def __repr__(self):
 		return "<Word(kana='%s', kanji='%s', definition='%s')>" % (self.kana, self.kanji, self.definition)
@@ -29,30 +34,39 @@ class Word(Base):
 		session.commit()
 
 	def isDupe(self):
-		if self.duplicate_id:
-			return True;
+		if self.owner:
+			return True
+		elif len(self.getPotentialDuplicates()):
+			return True
 		else:
-			return False;
+			return False
 			
 	def getDupe(self):
-		if self.duplicate_id:
+		if self.owner_id:
 			return getById(self.duplicate_id)
 		else:
 			return None
+	
+	def alreadyExists(self):
+		for word in self.getPotentialDuplicates():
+			if self.kana == word.kana and self.kanji == word.kanji and self.definition == word.definition:
+				return True
+			else:
+				return False
 		
 	def getPotentialDuplicates(self):
-		dupes = []
-		if self.kanji != '':
-			dupes.append(session.query(Word).filter(Word.kanji == self.kanji).all())
-		if self.kana != '':
-			dupes.append(session.query(Word).filter(Word.kana == self.kana).all())
-		if self.definition != '':
-			dupes.append(session.query(Word).filter(Word.kana == self.kana).all())
+		kanaDupes = session.query(Word).filter(Word.kana != '', Word.kana == self.kana, Word.owner_id == 0)
+		kanjiDupes = session.query(Word).filter(Word.kanji != '', Word.kanji == self.kanji, Word.owner_id == 0)
+		definitionDupes = session.query(Word).filter(Word.definition != '', Word.definition == self.definition, Word.owner_id == 0)
 		
-		return dupes
+		return kanaDupes.union(kanjiDupes, definitionDupes).all()
 		
 	def getAll():
 		return session.query(Word).all()
 		
 	def getById(wordId):
 		return session.query(Word).filter(Word.id == wordId).one()
+
+Base.metadata.create_all(engine)
+Session = sessionmaker(bind=engine)
+session = Session()
