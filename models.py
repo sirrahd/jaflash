@@ -89,9 +89,12 @@ class Word(Base):
             return False
         
     def getPotentialDuplicates(self):
-        dupes = session.query(Word).filter(Word.kana != None, Word.kana.contains(self.kana), Word.owner_id == None).union(
-                session.query(Word).filter(Word.kanji != None, Word.kanji.contains(self.kanji), Word.owner_id == None),
-                session.query(Word).filter(Word.definition != None, Word.definition.contains(self.definition), Word.owner_id == None)).all()
+        dupes = session.query(Word).filter(Word.kana != None, Word.kana.contains(self.kana), Word.owner_id == None)
+
+        if self.kanji != '':
+            dupes = dupes.union(session.query(Word).filter(Word.kanji != None, Word.kanji.contains(self.kanji), Word.owner_id == None))
+
+        dupes = dupes.all()
         
         trueDupes = []
         for dupe in dupes:

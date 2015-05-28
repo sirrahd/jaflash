@@ -35,7 +35,7 @@ def resolveDuplicates(word, progressCount):
     dupes = word.getPotentialDuplicates()    
     while(len(dupes)):
         print(str(progressCount) + " of " + str(Word.totalCount()))
-        print(str(Word.totalCount() - originalTotalCount - Word.dupeCount() + originalDupeCount) + " new originals, " + str(Word.dupeCount() - originalDupeCount) + " new dupes, " + str(Word.relationshipCount() - originalRelationshipCount) + " new relationships")
+        print(str(Word.totalCount() - originalTotalCount) + " new words, " + str(Word.dupeCount() - originalDupeCount) + " new dupes, " + str(Word.relationshipCount() - originalRelationshipCount) + " new relationships")
         i = 1
         for item in dupes:
             print(str(i) + "\t" + str(item))
@@ -86,6 +86,6 @@ for word in Word.getAll():
     i += 1
     
 print("Duplicates resolved")
-print(str(Word.totalCount() - originalTotalCount - Word.dupeCount() + originalDupeCount) + " new originals, " + str(Word.dupeCount() - originalDupeCount) + " new dupes, " + str(Word.relationshipCount() - originalRelationshipCount) + " new relationships")
+print(str(Word.totalCount() - originalTotalCount) + " new words, " + str(Word.dupeCount() - originalDupeCount) + " new dupes, " + str(Word.relationshipCount() - originalRelationshipCount) + " new relationships")
 print(str(Word.totalCount()) + " total words, " + str(Word.totalCount() - Word.dupeCount()) + " total originals, " + str(Word.dupeCount()) + " total dupes, " + str(Word.relationshipCount()) + " total relationships")
 
