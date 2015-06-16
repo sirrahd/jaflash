@@ -65,6 +65,14 @@ def populate(filepath, folder, chapter, section):
         for row in reader:
             Word(kana = row[0], kanji = row[1], definition = row[2], book = folder, chapter = chapter, section = section).save()
 
+def writeToFile():
+    with open('vocab.csv', 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile, delimiter='\t')
+        for word in Word.getAll():
+            if not word.isDupe():
+                writer.writerow(word.toArray())
+    csvfile.close()
+
 originalTotalCount = Word.totalCount()
 originalDupeCount = Word.dupeCount()
 originalRelationshipCount = Word.relationshipCount()
@@ -89,3 +97,5 @@ print("Duplicates resolved")
 print(str(Word.totalCount() - originalTotalCount) + " new words, " + str(Word.dupeCount() - originalDupeCount) + " new dupes, " + str(Word.relationshipCount() - originalRelationshipCount) + " new relationships")
 print(str(Word.totalCount()) + " total words, " + str(Word.totalCount() - Word.dupeCount()) + " total originals, " + str(Word.dupeCount()) + " total dupes, " + str(Word.relationshipCount()) + " total relationships")
 
+writeToFile();
+print("vocab.csv created")

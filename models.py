@@ -82,6 +82,12 @@ class Word(Base):
         else:
             return False
     
+    def isDupe(self):
+        if self.owner_id == None:
+            return False
+        else:
+            return True 
+    
     def alreadyExists(self):
         if self.id == None and session.query(Word).filter(Word.kana == self.kana, Word.kanji == self.kanji, Word.definition == self.definition).count() > 0:
             return True
@@ -104,6 +110,9 @@ class Word(Base):
                 trueDupes.append(dupe)
         
         return trueDupes
+        
+    def toArray(self):
+        return [self.kana, self.kanji, self.definition]
         
     def getAll():
         return session.query(Word).all()
