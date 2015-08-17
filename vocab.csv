@@ -1,0 +1,1345 @@
+1	いち	一	one
+2	いちじ	一時	one o'clock
+3	に	二	two
+4	にじ	二時	two o'clock
+5	さん	三	three
+6	さんじ	三時	three o'clock
+7	よん	四	four
+8	よんじ	四時	four o'clock
+9	ご	五	five
+10	ごじ	五時	five o'clock
+11	ろく	六	six
+12	ろくじ	六時	six o'clock
+13	ろっぴゃく	六百	six hundred
+14	シチ/なな	七	seven
+15	しちじ	七時	seven o'clock
+16	はち	八	eight
+17	はちじ	八時	eight o'clock
+18	はっぴゃく	八百	eight hundred
+19	きゅう	九	nine
+20	くじ	九時	nine o'clock
+21	じゅう	十	ten
+22	じゅうじ	十時	ten o'clock
+23	ひゃく	百	hundred
+24	さんびゃく	三百	three hundred
+25	せん	千	thousand
+26	さんぜん	三千	three thousand
+27	はっせん	八千	eight thousand
+28	いちまん	一万	ten thousand
+29	じゅうまん	十万	one hundred thousand
+30	ひゃくまん	百万	one million
+31	ひゃくえん	百円	one hundred yen
+32	にほん	日本	Japan
+33	にちようび	日曜日	Sunday
+35	にほんじん	日本人	Japanese people
+36	ひとりで	一人で	alone
+37	げつようび	月曜日	Monday
+38	いちげつ	一月	January
+39	かようび	火曜日	Tuesday
+40	すいようび	水曜日	Wednesday
+41	みず	水	water
+42	もくようび	木曜日	Thursday
+43	きんようび	金曜日	Friday
+44	どようび	土曜日	Saturday
+45	うえ	上	top; above
+46	した	下	under
+47	なか	中	inside
+48	さんじはん	三時半	half past three
+49	やま	山	mountain
+50	かわ	川	river
+51	げんきな	元気な	fine
+52	てんき	天気	weather
+53	わたし	私	I
+54	いま	今	now
+55	きょう	今日	today
+56	たなかさん	田中さん	Mr./Mrs. Tanaka
+57	やまださん	山田さん	Mr./Mrs. Yamada
+58	おんなのひと	女の人	woman
+59	おとこのひと	男の人	man
+60	みる	見る	to see
+61	いく	行く	to go
+62	たべる	食べる	to eat
+63	のむ	飲む	to drink
+64	ひがし	東	east
+65	ひがしぐち	東口	east exit
+66	にし	西	west
+67	にしぐち	西口	west exit
+68	みなみ	南	south
+69	みなみぐち	南口	south exit
+70	きた	北	north
+71	きたぐち	北口	north exit
+72	でる	出る	to exit
+73	でぐち	出口	exit
+74	みぎ	右	right
+75	ひだり	左	left
+76	ごふん	五分	five minutes
+77	じゅっぷん	十分	ten minutes
+78	じぶん	自分	oneself
+79	はんぶん	半分	half
+80	せんせい	先生	teacher
+81	がくせい	学生	student
+82	だいがくせい	大学生	college student
+83	だいがく	大学	university
+84	がいこく	外国	foreign country
+85	とうきょう	東京	Tokyo
+86	きょうこ	京子	Kyoko
+87	こども	子供	child
+88	ちいさい	小さい	small
+89	あう	会う	to meet
+90	かいしゃ	会社	company
+91	ちち	父	father
+92	おとうさん	お父さん	father
+94	おかあさん	お母さん	mother
+95	たかい	高い	expensive
+96	こうこう	高校	high school
+97	こうこうせい	高校生	high school student
+98	がっこう	学校	school
+99	まいにち	毎日	every day
+100	にほんご	日本語	Japanese language
+101	ぶんがく	文学	literature
+103	はいる	入る	to enter
+104	かいしゃいん	会社員	office worker
+105	あたらしい	新しい	new
+106	しんぶん	新聞	newspaper
+107	きく	聞く	listen
+108	つくる	作る	to make
+110	でんしゃ	電車	train
+111	でんき	電気	electricity
+112	くるま	車	car
+113	やすむ	休む	to be absent; to rest
+114	やすみ	休み	holiday; absence
+115	いう	言う	to say
+116	よむ	読む	to read
+117	おもう	思う	to think
+118	つぎ	次	next
+119	なに	何	what
+120	なんじ	何時	what time
+121	なんにん	何人	how many people
+122	ごぜん	午前	A.M.
+123	ごご	午後	P.M.; in the afternoon
+124	ごぜんちゅう	午前中	in the morning
+125	のあと	の後	after...
+126	あとで	後で	later
+127	うしろ	後ろ	back; behind
+129	なまえ	名前	name
+130	しろい	白い	white
+131	あめ	雨	rain
+132	かく	書く	to write
+133	ともだち	友達	friend
+134	じかん	時間	time
+135	にじかん	二時間	two hours
+136	あいだ	間	between
+137	いえ	家	house
+138	はなす	話す	to speak
+141	すこし	少し	a little
+142	ふるい	古い	old (for things)
+143	しる	知る	to know
+144	くる	来る	to come
+145	きます	来ます	to come
+146	こない	来ない	not to come
+147	すむ	住む	to live
+148	おしょうがつ	お正月	New Year
+149	さんねんせい	三年生	third-year student
+150	らいねん	来年	next year
+151	ことし	今年	this year
+152	とし	年	year
+153	うる	売る	to sell
+154	かう	買う	to buy
+156	ながい	長い	long
+158	ゆき	雪	snow
+159	たつ	立つ	to stand
+160	よる	夜	night
+161	あさ	朝	morning
+162	もつ	持つ	to hold
+163	てがみ	手紙	letter
+164	かしゅ	歌手	singer
+165	すきな	好きな	to like
+167	きんじょ	近所	neighborhood
+168	あかるい	明るい	cheerful; bright
+169	びょういん	病院	hospital
+170	びょうき	病気	illness
+171	えいが	映画	movie
+172	うたう	歌う	to sing
+173	うた	歌	song
+174	かわぐちし	川口市	Kawaguchi city
+175	いろいろなところ	いろいろな所	various places
+176	べんきょうする	勉強する	to study
+177	つよい	強い	strong
+178	ゆうめいな	有名な	famous
+179	りょこう	旅行	travel
+181	むかしむかし	昔々	once upon a time
+182	ひとびと	人々	people
+184	じんじゃ	神社	shrine
+185	はやい	早い	early
+186	おきる	起きる	to get up
+187	うし	牛	cow
+188	つかう	使う	to use
+189	はたらく	働く	to work
+190	つれてかえる	連れて帰る	to take home
+193	いちど	一度	once
+194	こんど	今度	near future
+195	あか	赤	red color
+196	あかい	赤い	red
+197	あお	青	blue color
+198	あおい	青い	blue
+199	いろ	色	color
+200	たべもの	食べ物	food
+202	かいもの	買い物	shopping
+203	とり	鳥	bird
+206	やすい	安い	cheap
+207	ごはん	ご飯	rice; meal
+208	あさごはん	朝ご飯	breakfast
+209	にく	肉	meat
+210	わるい	悪い	bad
+211	きぶんがわるい	気分が悪い	to feel sick
+213	くうこう	空港	airport
+214	くうき	空気	air
+216	きる	着る	to wear
+218	おなじ	同じ	same
+219	うみ	海	sea
+220	ひる	昼	noon; daytime
+221	ひるごはん	昼ご飯	lunch
+222	ウエイター		waiter
+223	おじいさん		grandfather; old man
+224	おたく		(someone's) house/home
+225	おとな	大人	adult
+226	がいこくご	外国語	foreign language
+227	がっき	楽器	musical instrument
+228	からて	空手	karate
+229	カレー		curry
+217	きもの	着物	kimono; Japanese traditional dress
+231	ケーキ		cake
+232	こうこく	広告	advertisement
+233	こうちゃ	紅茶	tea (black tea)
+235	ゴルフ		golf
+236	セーター		sweater
+237	ぞう	像	elephant
+238	バイオリン		violin
+239	バイク		motorbike
+240	ぶっか	物価	(consumer) prices
+241	ぶんぽう	文法	grammar
+242	べんごし	弁護士	lawyer
+243	ぼしゅう	募集	recruitment
+244	みせ	店	shop; store
+245	やくざ		yakuza; gangster
+246	やくそく	約束	promise; appointment
+247	レポート		(term) paper
+248	わたくし	私	I (formal)
+249	うれしい		glad
+250	かなしい	悲しい	sad
+251	からい	辛い	hot and spicy; salty
+252	きびしい	厳しい	strict
+253	ちかい	近い	close; near
+254	いろいろな		various; different kinds of
+255	しあわせな	幸せな	happy (lasting happiness)
+256	だめな		no good
+257	あむ	編む	to knit
+258	かす	貸す	to lend; to rent (thing を person に)
+259	がんばる	頑張る	to do one's best; to try hard
+260	なく	泣く	to cry
+261	みがく	磨く	to brush (teeth); to polish
+262	やくそくをまもる	約束を守る	to keep a promise
+263	かんどうする	感動する	to be moved/touched (by...) （に）
+264	いらっしゃいませ		(someone honorable) is present/home
+265	かい	回	...times
+266	キロ		...kilometers; ...kilograms
+268	ぜんぶ	全部	all
+269	ともうします	と申します	my name is ...
+270	よろしくおねがいします	よろしくお願いします	thank you (in advance)
+271	けいざい	経済	economics
+272	とこや	床屋	barber shop
+273	びよういん	美容院	beauty parlor
+274	こうざ	口座	account
+275	りし	利子	interest
+276	てすうりょう	手数料	commission
+277	つうちょう	通帳	passbook
+278	よきん	預金	savings
+279	ひゃくえんだま	百円玉	100-yen coin
+280	きんがく	金額	amount
+281	あんしょうばんごう	暗証番号	personal identification number
+282	こうざをひらきたいんですが。	口座をひらきたいんですが。	I would like to open an account.
+283	こうざをとじたいんですが。	口座を閉じたいんですが。	I would like to close an account.
+284	ドルをえんにかえてください。	ドルを円にかえてください。	Please change dollars into yen.
+285	こぎってをげんきんにしたいんですけど。	小切手を現金にしたいんですけど。	I would like to cash this check.
+286	こうざにおかねをふりこみたいんですが。	口座にお金を振り込みたいんですが。	I would like to deposit money into the account.
+287	アメリカにそうきんしたいんですが。	アメリカに送金したいんですが。	I would like to send the money to America.
+288	いちまんえんさつをせんえんさつじゅうまいにりょうがえできますか。	一万円札を千円札十枚に両替できますか。	Can you change a 10,000-yen bill into ten 1,000 yen bills?
+289	おかねをおろします。	お金をおろします。	I will withdraw money.
+290	けいけん	経験	experience
+292	なんでも		anything; everything
+293	ニヤニヤする		to grin
+294	ふあんな	不安な	uneasy; worried
+295	からだにいい	体にいい	good for health
+296	いちにちにいちど	一日に一度	once in a lifetime
+297	やっぱり		after all
+298	もう～ない		not any longer
+299	まんいんでんしゃ	満員電車	jam-packed train
+300	だいいちいんしょう	第一印象	the first impression
+301	こむ	込む	to get crowded
+302	こんでいる	込んでいる	to be crowded
+304	ラッシュ		the rush hour
+305	スーツケース		suitcase
+306	かんがえる	考える	to think about... （～のことを）
+308	かれ	彼	boyfriend
+309	かのじょ	彼女	she; girlfriend
+310	じだい	時代	age; era
+311	りゅうがくせい	留学生	foreign student
+312	かぞく	家族	family
+313	ちちおや	父親	father
+314	しんせつな	親切な	kind
+315	きる	切る	to cut
+316	えいご	英語	English
+318	きょねん	去年	last year
+319	きゅうに	急に	suddenly
+321	のる	乗る	to ride
+323	おんがく	音楽	music
+324	たのしい	楽しい	fun
+325	いしゃ	医者	doctor
+326	あに	兄	(my) older brother
+327	おおやさん	大家さん	landlord
+328	おかえし	お返し	return (as a token of gratitude)
+329	おくさん	奥さん	(your/his) wife
+330	おじさん		uncle; middle-aged man
+331	おばさん		aunt; middle-aged woman
+332	クラブ		club; student society
+333	クリスマス		Christmas
+334	ごしゅじん	ご主人	(your/her) husband
+335	カップ		tumbler; glass
+336	さら	皿	plate; dish
+337	チョコレート		chocolate
+338	でんしメール	電子メール	e-mail
+339	ぬいぐるみ		stuffed animal (e.g. teddy bear)
+340	ネクタイ		necktie
+93	はは	母	(my) mother
+342	バレンタインデー		St. Valentine's Day
+343	ビデオカメラ		camcorder
+344	ふうふ	夫婦	married couple; husband and wife
+345	ホワイトデー		White Day
+346	マフラー		winter scarf
+347	まんが	漫画	comic book
+348	マンション		multistory apartment; condominium
+349	みかん		mandarin
+350	ゆびわ	指輪	ring
+351	ラジオ		radio
+352	りょうしん	両親	parents
+353	りれきしょ	履歴書	resume
+354	ほしい	欲しい	to want (thing が)
+355	けち（な）		stingy; cheap
+357	にあう	似合う	to look good (on somebody) (person に)
+358	あきらめる		to give up
+359	あげる		to give (to others) (thing を person に)
+360	くれる		to give (me) (thing を person に)
+361	できる		to come into existence; to be made （～が）
+362	そうだんする	相談する	to consult (person に)
+363	プルポーズする		to propose marriage (person に)
+365	こんな		...like this; this kind of...
+366	たち		[makes a noun plural]
+367	わたしたち	私たち	we
+368	ちょうど		exactly
+369	よく		well
+370	こ	個	[generic counter for small items]
+371	さつ	冊	[counter for bound volumes]
+372	だい	台	[counter for equipment]
+373	ひき	匹	[counter for smaller animals]
+375	なやみ	悩み	worry
+376	アドバイス		advice
+379	せんぱい	先輩	senior members of a group
+380	ねんかん	年間	for ... years
+382	あいす	愛す	to love
+383	どうしたらいい		What should one do
+384	しゅっちょう	出張	business trip
+385	ばあい	場合	case
+386	しぬ	死ぬ	to die
+387	いみ	意味	meaning
+389	なつ	夏	summer
+390	なつやすみ	夏休み	summer vacation
+391	さかな	魚	fish
+392	おてら	お寺	temple
+394	ひろば	広場	square; open space
+395	じてんしゃ	自転車	bicycle
+396	かりる	借りる	to borrow
+397	はしる	走る	to run
+398	たてもの	建物	building
+399	ちか	地下	underground
+400	あし	足	foot; leg
+402	え	絵	painting; picture; drawing
+403	えいがかん	映画館	movie theater
+404	がいこくじん	外国人	foreigner
+405	かぐ	家具	furniture
+406	かんこう	観光	sightseeing
+407	けっこんしき	結婚式	wedding
+408	じしん	地震	earthquake
+409	しめきり	締切	deadline
+410	ジャケット		jacket
+411	しゅうかん	習慣	custom
+412	ぜいきん	税金	tax
+413	そつぎょうしき	卒業式	graduation ceremony
+414	そば		soba; Japanese buckwheat noodle
+415	ちず	地図	map
+416	でんち	電池	battery
+417	にわ	庭	garden
+418	はっぴょう	発表	presentation
+419	ばんぐみ	番組	broadcast program
+420	プール		swimming pool
+421	ペット		pet
+422	よてい	予定	schedule
+424	わりびきけん	割引券	discount coupon
+393	ひろい	広い	spacious; wide
+426	おろす	下ろす	to withdraw (money)
+427	かく		to draw; to paint
+428	さがす	探す	to look for
+429	さそう	誘う	to invite
+381	つきあう	付き合う	(1) to date (someone) (person と) (2) to keep company (purpose に)
+432	ほけんにはいる	保険に入る	to buy insurance
+433	きをつける	気をつける	to be cautious/careful （～に）
+434	しらべる	調べる	to look into (a matter) (matter を)
+435	すてる	捨てる	to throw away
+436	みえる	見える	to be visible
+438	そつぎょうする	卒業する	to graduate (from...) (school を)
+439	よやくする	予約する	to reserve
+440	いちにちじゅう	一日中	all day long
+441	けど		..., but; ..., so
+442	さいきん	最近	recently
+443	について		about...; concerning...
+444	ばん	番	number...
+446	もういちど	もう一度	one more time
+447	ホテル		hotel
+448	ビジネスホテル		business hotel
+449	ユースホステル		youth hostel
+423	りょかん	旅館	Japanese-style inn (Room prices usually include breakfast and dinner.)
+451	みんしゅく	民宿	guest house (Room prices usually include breakfast and dinner.)
+452	はく	泊	... nights (何拍/一泊/二泊/三泊/四泊・・・・・・)
+453	つき	付	with...
+454	しょくじつき	食事付	with meals
+455	いっぱくにしょくつき	一泊二食付	one night with two meals
+456	チェックイン（する）		checking in
+457	チェックアウト（する）		checking out
+458	シングル		single room
+459	ダブル		double room
+460	ツイン		twin room
+461	めい	名	...person(s)
+462	フロント		receptionist; front desk
+463	うまれる	生まれる	to be born
+464	げんばく	原爆	atomic bomb
+465	のこす	残す	to leave; to preserve
+466	へいわ	平和	peace
+467	しま	島	island
+468	みどり	緑	green
+469	いちねんじゅう	一年中	all year
+470	たのしむ	楽しむ	to enjoy
+471	しぜん	自然	nature
+473	たけ	竹	bamboo
+474	けしき	景色	scenery
+476	ビル		building
+477	せんそう	戦争	war
+478	て	手	hand; arm
+401	とおる	通る	to pass; to go through
+480	ホームレス		homeless
+481	せかい	世界	the world
+482	へや	部屋	room
+483	はじまる	始まる	(something) begins
+484	はじめる	始める	to begin (something)
+485	まいしゅう	毎週	every week
+486	せんしゅう	先週	last week
+487	いじょう	以上	... or more
+489	あける	開ける	to open (something)
+490	ほんや	本屋	book store
+491	みかた	味方	person on one's side
+492	うんどう	運動	exercise
+493	うんてん	運転	driving
+494	おしえる	教える	to teach
+495	きょうしつ	教室	classroom
+496	えきいん	駅員	station attendant （さん）
+497	おや	親	parent
+498	ごみ		garbage
+499	さとう	砂糖	sugar
+500	しょうがくきん	奨学金	scholarship
+501	しんせき	親せき	relatives
+502	すいせんじょう	推薦状	letter of recommendation
+503	だいがくいん	大学院	graduate school
+504	たいふう	台風	typhoon
+505	ひ	日	day
+506	ファイル		file
+157	みち	道	way; road; direction
+508	めざましどけい	目覚まし時計	alarm clock
+509	きたない	汚い	dirty
+510	おこす	起こす	to wake (someone) up
+511	おごる		to treat (someone) to a meal (person に meal を)
+512	おちこむ	落ち込む	to get depressed
+515	つれていく	連れていく	to take (someone) to (a place) (person を place に)
+516	なおす	直す	to correct; to fix
+517	みちにまよう	道に迷う	to become lost; to lose one's way
+518	やくす	訳す	to translate (source を target に)
+519	わらう	笑う	to laugh
+520	アイロンをかける		to iron (clothes)
+521	あつめる	集める	to collect
+523	のりおくれる	乗り遅れる	to miss (a train, bus, etc.) （～に）
+524	みせる	見せる	to show
+525	あさねぼうする	朝寝坊する	to oversleep
+527	せつめいする	説明する	to explain
+528	むかえにくる	迎えに来る	to come to pick up (someone)
+529	ええと		well...; let me see...
+530	きょうじゅうに	今日中に	by the end of today
+531	このあいだ	この間	the other day
+532	このぐらい		about this much （＝これぐらい/このくらい/これくらい）
+534	しつれいします	失礼します	Excuse me.; Sorry to interrupt you.
+535	じぶんで	自分で	(do something) oneself
+536	じゅぎょうちゅうに	授業中に	in class; during the class
+537	ほかの		other
+538	そら	空	sky
+539	とぶ	飛ぶ	to fly
+542	みらい	未来	future
+543	ロボット		robot
+544	どうぐ	道具	tool
+545	ポケット		pocket
+546	しょうがくせい	小学生	elementary school students
+547	たすける	助ける	to help; to rescue
+548	よろこんで	喜んで	happily
+549	つづく	続く	to continue
+551	うれる	売れる	to be sold
+552	たとえば	例えば	for example
+553	どこでも		anywhere
+554	すると		... Then, ...
+555	ばしょ	場所	place
+557	よわい	弱い	weak
+560	かいがい	海外	overseas
+561	にじゅうごさい	二十五歳	twenty-five years old
+562	ならう	習う	to learn
+563	おもに	主に	mainly
+565	けっこんする	結婚する	to marry
+569	かつどう	活動	activity
+570	せいかつ	生活	(daily) life
+572	あるく	歩く	to walk
+574	おのさん	小野さん	Mr./Mrs. Ono
+575	ながの	長野	Nagano
+576	おきゃくさん	お客さん	guest; visitor; client; customer
+577	おとこ	男	man
+578	おゆ	お湯	hot water
+579	おんな	女	woman
+580	かぎ		lock; key
+581	かみ	紙	paper
+582	きゅうりょう	給料	salary
+583	コンタクト		contact lenses
+584	さいてい	最低	the lowest; the worst
+585	サラリーマン		salaryman; company employee
+586	ざんぎょう	残業	overtime work
+587	ストーブ		heater
+588	たからくじ	宝くじ	lottery
+589	ちがい	違い	differences
+590	ニュース		news
+591	ひげ		beard
+592	ひみつ	秘密	secret
+593	りょう	寮	dormitory
+594	りょこうがいしゃ	旅行会社	travel agency
+595	うらやましい		envious
+596	すくない	少ない	a little; a few
+597	えらぶ	選ぶ	to choose; to select
+598	おゆをわかす	お湯を沸かす	to boil water
+599	かみをとかす	髪をとかす	to comb one's hair
+600	たからくじにあたる	宝くじに当たる	to win a lottery
+601	ぬぐ	脱ぐ	to take off (clothes)
+602	ひげをそる		to shave one's beard
+604	かぎをかける		to lock （～に）
+605	たりる	足りる	to be sufficient; to be enough
+606	なれる	慣れる	to get used to... （～に）
+607	けしょうする	化粧する	to put makeup on
+608	しゅうしょくする	就職する	to get a full-time job (at...) (company に)
+610	りこんする	離婚する	to get a divorce
+611	おめでとうございます		Congratulations!
+612	かなあ		I wonder... (casual)
+614	そうか		I see. (casual)
+616	にくらべて	に比べて	compared with...
+617	によると		according to...
+619	ろくじゅうねんだい	６０年代	60's
+620	かんけい	関係	relations
+621	げいじゅつ	芸術	art
+622	おんがくか	音楽家	musician
+623	し	詩	poem
+625	かぞえる	数える	to count
+626	くも	雲	cloud
+627	なまえをつける	名前をつける	to name
+628	かんせいする	完成する	to be completed
+629	このような		like this
+567	さくひん	作品	artistic piece
+631	てんらんかい	展覧会	art exhibition
+632	ひらく	開く	to hold (an event)
+633	てんじょう	天井	ceiling
+568	もじ	文字	letter; character
+635	のてめの		~ for the sake of...
+637	はだか	裸	naked
+638	ただしい	正しい	correct
+639	大セット	だいセット	big hit
+573	ぶんや	分野	field; realm
+642	はいく	俳句	haiku (Japanese poetry)
+643	はしご		ladders
+644	むしめがね	虫眼鏡	magnifying glasses
+645	しゅふ	主婦	"house husband; ""stay at home dad"""
+646	じゅうでうたれる	銃で撃たれる	be shot
+649	ちからしごと	力仕事	physical labor such as construction
+651	ふく	服	clothes
+650	ようふく	洋服	Western clothes
+653	しょくどう	食堂	dining room
+654	じゅぎょう	授業	class
+655	しけん	試験	exam
+657	としょかん	図書館	library
+660	しゅくだい	宿題	homework
+661	あと	後	the rest
+662	エアコン		air conditioning
+663	カーテン		curtain
+664	ぎゅうにゅう	牛乳	milk
+665	シャンプー		shampoo
+666	しょうゆ	しょう油	soy sauce
+667	スイッチ		switch
+668	スカート		skirt
+669	そと	外	outside
+670	タオル		towel
+671	にっき	日記	diary
+672	ポップコーン		popcorn
+673	やちん	家賃	rent
+674	ゆうがた	夕方	evening
+675	ラジカセ		casette player with a radio
+676	るすばんでんわ	留守番電話	answering machine
+677	れいぞうこ	冷蔵庫	refrigerator
+678	ろうそく		candle
+680	はずかしい	恥ずかしい	embarrassing; to feel embarrassed
+681	あく	開く	(something) opens （～が）
+682	あやまる	謝る	to apologize
+683	おす	押す	to press; to push
+684	おとす	落とす	to drop (something)
+685	おゆがわく	お湯が沸く	water boils
+686	ころぶ	転ぶ	to fall down
+687	こわす	壊す	to break (something) （～を）
+688	さく	咲く	to bloom
+689	しまる	閉まる	(something) closes （～が）
+692	つく		(something) turns on （～が）
+693	よごす	汚す	to make dirty （～を）
+694	おちる	落ちる	(something) drops （～が）
+696	きえる	消える	(something) goes off
+697	こわれる	壊れる	(something) breaks （～が）
+698	よごれる	汚れる	to become dirty （～が）
+699	ちゅうもんする	注文する	to place an order
+700	いますぐ	今すぐ	right away
+701	おかげで		thanks to... （～の）
+702	おさきにしつれいします	お先に失礼します	See you. (lit., I'm leaving ahead of you.)
+703	おつかれさま	お疲れ様	You must be tired after working so hard. (ritualistic expression) （でした）
+704	だろう		short form of でしょう
+705	どうしよう		What should I/we do?
+706	まず		first of all
+707	までに		by (time/date)
+647	もくてき	目的	object; purpose
+709	じょしがくせい	女子学生	female student
+710	だんしがくせい	男子学生	male student
+711	かていきょうし	家庭教師	tutor
+712	サークル		club
+713	せいかつひ	生活費	the cost of living
+715	じむ	事務	clerical work
+716	せいかつのゆとり	生活のゆとり	extra money to spare for the cost of living
+717	ちょきん	貯金	savings
+718	ワンルームマンション		one-room apartment; a studio
+719	しょくひ	食費	food cost
+720	だい	代	charge; fee
+721	でんきだい	電気代	charge for electricity
+722	まいつき	毎月	every month
+723	ひっこし	引っ越し	moving
+724	はじめは	初めは	at first
+725	したしい	親しい	close; intimate
+726	はる	春	spring
+727	あき	秋	autumn
+728	ふゆ	冬	winter
+729	ふゆやすみ	冬休み	winter vacation
+730	はな	花	flower
+732	あね	姉	older sister
+733	おねえさん	お姉さん	older sister
+736	かんじ	漢字	Chinese character
+738	こうがく	工学	engineering
+739	けんきゅう	研究	research
+740	しつもん	質問	question
+742	おくさま	奥様	(your/his) wife (polite)
+743	おこさん	お子さん	(your/their) child (polite)
+744	おれい	お礼	expression of gratitude
+745	けいご	警護	honorific language
+746	こちら		this way (polite)
+714	しゅるい	種類	a kind; a sort
+749	ちゅうがくせい	中学生	junior high school student
+750	どちら		where (polite)
+751	なまけもの	怠け者	lazy person
+752	はずかしがりや	恥ずかしがり屋	shy person
+754	ぶちょう	部長	department manager
+755	ぶんか	文化	culture
+756	まちがい	間違い	mistake
+757	なかがいい	仲がいい	be on good/close terms; to get along well
+758	まじめな		serious; sober; diligent
+759	いらっしゃる		honorific expression for いく, くる, and いる
+356	おくる	送る	to walk/drive (someone) (person を place まで)
+761	おこる	怒る	to get angry
+762	おっしゃる		honorific expression for いう
+763	おやすみになる	お休みになる	honorific expression for ねる
+765	くださる	下さる	honorific expression for くれる
+766	ごらんになる	ご覧になる	honorific expression for みる
+767	しりあう	知り合う	to get acquainted with （～と）
+768	ていらっしゃる		honorific expression for ～ている
+769	なさる		honorific expression for する
+770	ひっこす	引っ越す	to move (to another place to live) （～に）
+771	めしあがる	召し上がる	honorific expression for たべる and のむ
+773	よる	寄る	to stop by
+775	かける		to sit down
+776	はれる	晴れる	to become sunny
+777	もてる		to be popular (in terms of romantic interest) (people に)
+778	えんりょする	遠慮する	to hold back for the time being; to refrain from
+779	ごちそうする		to treat/invite (someone) to a meal (person に meal を)
+780	しょうたいする	招待する	to invite someone (to an event/a place) (person を event/place に)
+388	ちゅういする	注意する	to watch out; to give warning
+782	はなしをする	話をする	to have a talk
+783	おととい		the day before yesterday
+784	なぜ		why （＝どうして）
+785	ほんとうは	本当は	in fact; originally
+786	まいあさ	毎朝	every morning
+787	まだ		still
+788	めいさま	名様	party of ...people
+789	ようこそ		Welcome.
+790	よろしくおつたえください	よろしくお伝えください	Please give my best regards (to...) （～に）
+791	いかが		how (polite expression of どう)
+793	ちゅう	中	while...
+795	おせわになる	お世話になる	to be in someone's care （～に）
+796	おもいだす	思い出す	to recall
+797	なつかしい		to miss; to long for
+799	みなさま	みな様	everyone (polite expression of みなさん)
+800	たいせつにする	大切にする	to take good care of
+801	とつぜん	突然	suddenly
+802	ゆうじん	友人	friend
+803	こくさい	国際	international
+805	けんきゅうする	研究する	to do research
+807	のために		for...
+808	もうしこむ	申し込む	to apply （～に）
+809	もし～たら		if...
+810	もうしわけありません	申し訳ありません	You have my apologies.
+811	どうぞよろしくおねがいします	どうぞよろしくお願いします	Thank you in advance.
+812	こえ	声	voice
+813	おちゃ	お茶	Japanese tea
+814	ちゃみせ	茶店	teahouse
+816	いちまい	一枚	one sheet
+817	さんりょう	三両	three ryoo
+818	むりな	無理な	impossible
+819	はらう	払う	to pay
+820	こころ	心	heart; mind
+822	いたい	痛い	painful
+823	さいあく	最悪	the worst
+824	あちら		that way (polite)
+825	うちゅうじん	宇宙人	space alien
+826	おと	音	sound
+827	かかりのもの	係りの者	our person in charge
+828	かど	角	corner
+183	かみさま	神様	God
+830	じ	字	letter; character
+831	してん	支店	branch office
+832	しゅみ	趣味	hobby; pastime
+833	しょうせつ	小説	novel
+834	しんごう	信号	traffic light
+835	スニーカー		sneakers
+836	せんす	扇子	fan
+837	つき	月	moon
+838	ハイヒール		high heels
+839	や	屋	...shop
+840	ゆうべ		last night
+842	いたす	致す	extra-modest expression for する
+845	うかがう	伺う	to humbly visit; to humbly ask
+846	おる		extra-modest expression for いる
+847	ござる		extra-modest expression for ある
+848	ておる		extra-modest expression for ～ている
+849	でござる		extra-modest expression for です
+850	まいる	参る	extra-modest expression for いく and くる
+851	まがる	曲がる	to turn (right/left) (corner を direction に)
+559	もどる	戻る	to return; to come back
+854	きこえる	聞こえる	to be audible （～が）
+855	さしあげる	差し上げる	humble expression for あげる
+856	つたえる	伝える	to convey (message)
+857	またせる	待たせる	to keep (someone) waiting
+858	こうかんする	交換する	to exchange
+859	せいかつする	生活する	to lead a life
+860	へんぴんする	返品する	to return (merchandise)
+861	おや？		Oh!
+862	かい	階	...th floor
+863	かしこまりました		Certainly.
+864	さあ		I am not sure,...
+865	しつれいしました	失礼しました	I'm very sorry.
+866	しょうしょう	少々	a few seconds
+868	できれば		if possible
+869	まことに	誠に	really (very polite)
+871	みたいな		~ such as...
+872	よろしかったら		if it is okay (polite)
+873	らくご	落語	comic monologue
+874	らくごか	落語家	comic storyteller
+875	みぶり	身ぶり	gesture
+876	いなか		the country
+877	ねだん	値段	price
+878	えさ		feed
+815	とまる	止まる	to stop
+881	きっと		surely
+882	しゅじん	主人	owner
+883	あんなに		so; such
+884	だます		to deceive
+885	だく	抱く	to hold something in one's arms
+886	にこにこする		to smile
+887	うれしそうに		happily
+888	やった		I did it
+890	なんども	何度も	many times
+821	ぜったいに	絶対に	definitely; no matter what
+892	わたす	渡す	to give; to hand
+893	がっかりする		to be disappointed
+894	ひっかく		to scratch
+895	あぶない		unsafe; dangerous
+896	しんじる	信じる	to believe
+897	にだい	二台	two vehicles/machines/etc.
+898	いぬ	犬	dog
+841	おもい	重い	heavy; serious (illness)
+901	わかい	若い	young
+774	おくれる	遅れる	to be late
+905	おそい	遅い	late
+907	おとうと	弟	younger brother
+908	きょうだい	兄弟	brothers
+909	いもうと	妹	younger sister
+910	あかちゃん	赤ちゃん	baby
+911	か	蚊	mosquito
+912	かいぎ	会議	business meeting; conference
+913	ガソリン		gasoline
+914	かんきょう	環境	environment
+915	けいさつ	警察	police; police station
+916	こうじょう	工場	factory
+558	こと	事	things; matters
+918	しゅうでん	終電	last train
+919	スピーチ		speech
+920	せいふ	政府	government
+921	ちかん		sexual offender; lascivious man
+922	どうりょう	同僚	colleague
+923	どろぼう	泥棒	theif; burglar
+924	バイト		abbreviation for アルバイト
+925	はんにん	犯人	criminal
+926	ポスター		poster
+180	むかし	昔	old days; past
+928	もんく	文句	complaint
+929	もんくをいう	文句を言う	to complain
+930	るす	留守	absence; not at home
+931	とおい	遠い	far (away)
+933	あんぜんな	安全な	safe
+934	たいせつな	大切な	precious; valuable
+935	めちゃくちゃな		messy; disorganized
+936	おく	置く	to put; to lay; to place
+937	きがつく	気が付く	to notice
+938	ける		to kick
+939	さす	刺す	to sting; to bite (bug); to stab
+940	さわる	触る	to touch （～に）
+941	つかまる	捕まる	to be arrested; to be caught
+942	つつむ	包む	to wrap; to cover
+943	なぐる	殴る	to strike; to hit; to punch
+944	ぬすむ	盗む	to steal; to rob
+946	ふむ	踏む	to step on （を）
+947	ふる		to turn down (somebody); to reject; to jilt
+948	やく	焼く	to bake
+949	やる		to give (to pets, plants, younger siblings, etc.)
+950	いじめる		to bully
+951	きがえる	着替える	to change clothes
+952	ためる		to save money
+953	つづける	続ける	to continue
+954	ほめる		to praise; to say nice things
+955	まちがえる	間違える	to make a mistake
+957	じゅんびする	準備する	to prepare
+958	ばかにする		to insult; to make a fool of... （を）
+959	びっくりする		to be surprised
+960	ひるねをする	昼寝をする	to take a nap
+961	れんらくする	連絡する	to contact （～に）
+963	ころ		time of...; when...
+964	とにかく		anyhow; anyway
+965	めいしん	迷信	superstition
+966	おこる	起こる	to occur; to happen
+967	おおくの	多くの	many...
+968	ただの		nothing more than...
+969	にゅういんする	入院する	to be hospitalized
+970	うらない	占い	fortunetelling
+971	きにする	気にする	to worry
+972	ながいあいだ	長い間	long time
+973	いっしょうけんめい	一生懸命	very hard
+974	ぜいたくをする		to indulge in luxury
+975	めったに〜ない		seldom
+976	しょくじ	食事	meal
+977	ところが		however; on the contrary
+978	たのしみ	楽しみ	pleasure
+979	かよう	通う	to commute to （～に）
+980	ふべんな	不便な	inconvenient
+981	おまもり	お守り	charm (against evils); amulet
+982	ぎんこう	銀行	bank
+984	くろきさん	黒木さん	Mr./Mrs. Kuroki
+985	くろい	黒い	black
+986	ようじ	用事	a thing to take care of
+988	しゅうまつ	週末	weekend
+989	まつ	待つ	to wait
+993	えき	駅	station
+994	とうきょうえき	東京駅	Tokyo Station
+997	わすれる	忘れる	to forget
+999	うけつけ	受付	reception desk
+1000	えいかいわ	英会話	English conversation
+1001	おじょうさん	お嬢さん	(someone's) daughter (polite)
+1002	かじ	家事	household matters
+1003	かぜ	風	wind
+1004	き	木	tree
+1006	こうはい	後輩	junior members of a group
+1007	さる	猿	monkey
+1008	じゆう	自由	freedom
+1009	じゅく	塾	cram school
+1010	しょるい	書類	document
+1011	ひとりぐらし	一人暮らし	living alone
+1012	ぶか	部下	subordinate
+1013	ふくしゅう	復習	review lessons
+1014	プロジェクト		project
+1015	ボール		ball
+1016	むだづかい	無駄遣い	waste (money)
+1017	めんきょ	免許	license
+1018	よしゅう	予習	preparation of lessons
+1019	うるさい		noisy; annoying
+906	しんぱいな	心配な	worried about （～が）
+1021	びんぼうな	貧乏な	poor
+1022	ぺらぺらな		fluent (language が)
+1023	へんな	変な	strange; unusual
+1024	らくな	楽な	easy; comfortable
+1025	かつ	勝つ	to win （～に）
+1026	コピーをとる	コピーを取る	to make a photocopy
+1027	はこぶ	運ぶ	to carry
+1028	ひろう	拾う	to pick up something
+1029	ふく	吹く	to blow
+1030	ほうっておく	放っておく	to leave (someone/something) alone; to neglect
+1031	まにあう	間に合う	to be in time （～に）
+1032	むかえにいく	迎えに行く	to go pick up (someone)
+1033	けいかくにいく	計画に行く	to make a plan
+1034	そだてる	育てる	to raise; to bring up
+1035	まける	負ける	to lose (a match) （～に）
+1036	おねがいする	お願いする	to pray for help
+1037	さんせいする	賛成する	to agree （～に）
+1038	しっぱいする	失敗する	to fail; to be unsuccessful
+1039	てつやする	徹夜する	to stay up all night
+1040	はんたいする	反対する	to oppose; to object to （～に）
+1041	ほんやくする	翻訳する	to translate
+1042	こんなふう		in this way
+1043	ずっと		for a long time; all the time
+1044	そんなことはない		I don't think so
+1045	とか		...for example
+1046	のんびり		in a leisurely way
+1047	もうすこし	もう少し	a little more
+1048	うらやましがる		(somebody is) envious
+1049	かえってくる	帰ってくる	to come back home
+1050	あいかわらず	相変わらず	as usual
+1051	タイプ		type
+1052	うまく		well; successfully; skillfully
+1053	うまくいく		to go well
+1054	まちどおしい	待ち遠しい	to wait eagerly for... ~（～が）
+1055	メッセージ		message
+1056	なんだか		somehow
+1057	しかたがない		cannot be helped
+1058	ホーム		platform
+1059	たのしそうに	楽しそうに	joyfully
+1060	しんゆう	親友	best friend
+1061	ゆうき	勇気	courage
+1062	にげる	逃げる	to run away; to escape
+1063	それで		therefore
+1064	かわりに	代わりに	instead
+1065	ふつかかん	二日間	for two days
+1066	かお	顔	face
+1069	たいへんな	大変な	tough; hectic
+1070	よこ	横	side
+1071	くらべる	比べる	to compare
+1073	ちょうさ	調査	survey; research
+1075	けっか	結果	result
+1078	こたえる	答える	to answer
+1079	こたえ	答え	answer
+1080	おもいで	思い出	memory
+1081	かいがいりょこう	海外旅行	trip to a foreign country
+1082	くつした	靴下	socks
+1083	こくさいでんわ	国際電話	international call
+1084	じゅぎょうりょう	授業料	tuition
+1085	しょうがっこう	小学校	elementary school
+1086	せんきょ	選挙	election
+1087	タイヤ		tire
+1088	ただ		free of charge
+1089	べっそう	別荘	villa; vacation home
+1090	ボーナス		bonus
+1091	ぼんおどり	盆踊り	Bon dance (Japanese traditional dance)
+1092	めんせつ	面接	interview
+1094	りそう	理想	ideal
+1095	るすばん	留守番	looking after a house during one's absence
+1096	まずい		(food is) terrible
+1097	あめがやむ	雨がやむ	the rain stops
+1098	いなくなる		(someone) is gone; to disappear
+1099	おなかをこわす		to have a stomachache
+540	ちがう	違う	to be different; wrong
+1101	なくなる		to be lost; to disappear
+1102	わるぐちをいう	悪口を言う	to talk behind someone's back
+806	うける	受ける	to take (an examination, interview, etc.)
+1104	かえる	換える	to change
+1105	はなれる	離れる	(something/someone) separates; parts from
+1106	かおをする	顔をする	to look... (facial expression)
+1107	がまんする	我慢する	to be tolerant/patient
+1108	せわをする	世話をする	to take care of... （～の）
+1109	どうじょうする	同情する	to sympathize （～に）
+1110	パンクする		(tire) goes flat
+1111	もどってくる	戻ってくる	(something/someone) comes back
+1112	ゆうしょうする	優勝する	to win a championship
+1113	いや		no
+1114	げんきでね	元気でね	Take care of yourself.
+1115	そうそう		You are right.
+1116	そろそろ		it is about time to...
+541	そんな		such...; that kind of...
+1118	ものすごく		extremely
+1067	ひょうじょう	表情	facial expression
+1120	さいしょの	最初の	first...
+1121	さいごの	最後の	last...
+1122	じょうだん	冗談	joke
+1123	かんたんに	簡単に	easily
+1124	くち	口	mouth
+1125	このように		like this; this way
+1127	にんげん	人間	human being
+1128	ほとんど		almost
+1129	おなじような	同じような	similar
+1130	しゃかい	社会	society
+1076	かんじょう	感情	feeling; emotion
+1133	あらわす	表す	to express; to show
+1134	ぜんいん	全員	all members
+1135	けいべつ	軽蔑	contempt
+1136	いしやま	石山	(family name)
+900	はじめて	初めて	for the first time
+1138	しつれい	失礼	Excuse me
+852	もうす	申す	(humble form of 言う)
+128	まえ	前	before; in front
+1141	りゅうがく	留学	study abroad
+1143	みた	三田	(family name)
+1145	だいがくいんせい	大学院生	graduate student
+1146	ブラウンくん	ブラウン君	Mr. Brown (casual)
+804	でんきこうがく	電気工学	electrical engineering
+1148	せんこう	専攻	major
+1149	がくぶ	学部	college
+1150	きみも	君も	you too
+1151	じょうず	上手	good
+1152	おねがい	お願い	request, wish
+1153	とき	時	time
+267	じつは	実は	actually; in fact
+1155	ちゅうがく	中学	junior high school
+1156	じょせい	女性	woman
+1158	とる	取る	to take
+109	しごと	仕事	work, job
+1160	とまる	泊まる	to stay [over night] (v.i.)
+962	あいだに	間に	while; during the time when; between
+1163	ところ	所	place
+140	でんわ	電話	phone
+1165	なりた	成田	Narita [International Airport]
+155	まち	町	town; city
+1168	だんせい	男性	man; male
+1169	しかた	仕方	way [of doing something]
+1170	うつくしい	美しい	beautiful
+1171	かんがえかた	考え方	way of thinking
+1172	しょうかい	紹介	introduction
+1173	たばかり		have just done ~
+1174	しつれいですが	失礼ですが	Excuse me [, but ...]
+1175	でいらっしゃる		(honoric form of です)
+1176	ねんまえから	年前から	since ~ years ago
+1177	りゅうがくする	留学する	to study abroad
+1179	いけだ	池田	(family name)
+1180	かとう	加藤	(family name)
+1181	ぼく	僕	I (used by male speakers towards equals or someone lower in status)
+364	くん	君	(a form attached to a name in addressing someone. It is generaly used by male speakers towards someone equal or lower in status.)
+1183	せんこうする	専攻する	to major [in ~] （～を）
+1184	まゆみ		(family given name)
+1185	きみ	君	you (informal for men)
+1187	じょうずな	上手な	good [at ~] （～が）
+1188	ぜひ		by all means
+1189	おねがいします	お願いします	Please. (lit., I request.)
+1190	ところで		by the way
+1191	まだまだです		[I am] not good yet.
+1192	きょうみ	興味	interest
+1193	となり	隣	next door; next to
+1194	いちろう	一郎	(male given name; often given to the oldest son)
+1195	あそぶ	遊ぶ	to play
+1196	ちしき	知識	knowledge
+1197	ほうふな	豊富な	bountiful; plenty
+1198	ひこうき	飛行機	airplane
+1199	すわる	座る	to sit [in/on ~] （～に）
+1200	はなしかける	話しかける	to talk to
+1201	まえだ	前田	(family name)
+1202	ゆみ		(female given name)
+1203	せんげつ	先月	last month
+1205	つとめる	勤める	to work [for ~]; to be employed [at ~] （～に）
+1206	しゅうかん	週間	~ week[s]
+1207	きゅうか	休暇	vacation
+1208	かえるところ	帰るところ	to be returning home （だ）
+1209	そだつ	育つ	to grow up [in ~] (v.i.) （～で）
+1210	ことになっている		It has been arranged that
+1211	ひとばん	一晩	one night
+1212	とても		very [much]
+1161	きにいる	気に入る	to like ~; to be fond [of ~] （～が）
+1215	めいし	名刺	[name] card; business card
+1216	でんわばんごう	電話番号	telephone number
+1217	あおやま	青山	(family name)
+1218	ひろし	弘	(male given name)
+215	つく	着く	to arrive [at ~] （～に）
+1220	じゅうすうじかん	十数時間	ten plus a few hours
+1221	かかる		it takes (with respect to time or money) (v.i.)
+1222	ひづけへんこうせん	日付変更線	International Date Line
+1223	むかえる	迎える	to welcome; to meet; to greet
+1224	みつかる		~ is found (v.i.)
+1225	とめる	泊める	to have ~ stay [over night] (v.t.)
+1226	ことになる		it has been decided/arranged that ~
+1227	ファースト・ネーム		first name
+377	としうえ	年上	older
+1230	どうも		somehow; no matter how hard one may try
+1231	にくい		hard to ~; difficult to ~
+1232	じさボケ	時差ボケ	jet lag
+1233	ねむる	眠る	to sleep
+1234	アパートさがし	アパート探し	apartment hunting
+166	ちかく	近く	nearby; in the neighborhood
+1237	けっきょく	結局	finally; in the end
+1238	てきとうな	適当な	appropriate; suitable
+956	みつける	見つける	to find ~ (v.t.)
+1241	ことにする		to decide to
+1243	ちじん	知人	acquaintance
+1244	ていねいな		polite
+1245	ペラペラ		fluently
+1246	じこしょうかい	自己紹介	self-introduction
+1247	そのうち		before long
+1248	それから		and then; after that
+1249	ちゅうねん	中年	middle-aged
+1250	おたがい	お互い	each other
+1251	たら		when V
+1252	むすめ	娘	daughter
+1253	とても～ない		can't possibly ~
+1256	らしい		it seems that; evidently
+1257	カルチャーショック		culture shock
+1259	さげる	下げる	to lower (v.t.)
+1260	わかる	分かる	to understand ~ （～が）
+1261	ねむい	眠い	sleepy
+1262	にじはん	二時半	2:30
+1263	むずかしい	難しい	difficult; challenging
+1265	おおあめ	大雨	downpour; heavy rain
+1266	さきに	先に	ahead [of someone]
+1267	よしだ	吉田	(family name)
+1269	にちべい	日米	Japan and the U.S. （＝日本とアメリカ）
+513	こまる	困る	to have difficulty (with ~) （～に）
+1271	たぶん	多分	probably
+1272	かわり	代わり	instead of; on the other hand; while ~
+1273	あたる	当たる	to correspond [to ~] （～に）
+1275	めうえ	目上	person of higher status; one's senior
+1277	せつめい	説明	explanation
+1278	れい	例	example
+1279	たいして	対して	with respect to; for; in contrast
+1280	すうじつまえに	数日前に	several days ago
+1281	きまりもんく	決まり文句	set phrase
+1282	ようご	用語	terms
+1283	ほうが	方が	more than
+1284	きゃく	客	guest
+1285	おぼえる	覚える	to learn; to commit to memory; to remember
+1286	だいじな	大事な	important
+1287	きょういく	教育	education
+1288	あいさつ		greeting
+1290	おかしい		strange; odd; funny
+1291	けさ		this morning
+1292	えしゃくする	会釈する	to greet by bowing slightly
+1293	こういうふうに		this way; in this manner
+1294	あたま	頭	head
+1295	おじぎ		bow
+1296	なる	鳴る	to ring (v.i.)
+1297	めをさます	目を覚ます	to wake up
+1298	どうしつ	同室	same room
+1299	ねむそうな	眠そうな	looking sleepy
+1300	ねる	寝る	to sleep; to go to bed
+615	それに		moreover; besides
+1303	なかなか～ない		not easily
+903	とけい	時計	clock; watch
+1306	たいへんだ	大変だ	Oh, no!
+1307	ちゃう		(contraction of てしまう)
+1308	しかも		moreover; besides
+1309	ザーザーぶり	ザーザー降り	pouring rain
+1310	すごく		(to rain) hard; terribly; tremendously
+1311	ふる	降る	to fall (e.g., rain, snow, etc.)
+320	いそぐ	急ぐ	to hurry; to be in a hurry
+1313	またあとで	また後で	See you later.
+1314	であう	出会う	to run into [someone] （～に）
+1315	こうこうじだい	高校時代	high school years
+1316	どうきゅうせい	同級生	classmate
+1317	いつ～かわからない	いつ～か分からない	don't know when ~
+533	ごめん		Sorry. (informal)
+1319	てがみをだす	手紙を出す	to send/mail a letter
+1320	２１０ごうしつ	２１０号室	Room 210
+1323	しばらくぶり		for the first time in a long time
+1324	しか～ない		only; no more than
+1325	つまり		namely; in other words; in short
+1326	ひじょうに	非常に	extremely; very
+1327	そのかわりに	その代わりに	in place of that
+1328	さむい	寒い	cold (with reference to weather)
+1126	によって		depending on ~
+1330	よい		＝いい
+191	わかれる	別れる	to part [from ~]; to say farewell [to ~] （～と）
+1332	へんなかおをする	変な顔をする	to look annoyed; to look puzzled
+1333	それにたいして	それに対して	in response to that
+1334	せんじつ	先日	the other day
+1335	いっぱんてき	一般的	generally
+1336	のほうが	の方が	~ is more ... than
+1337	しょくじをだす	食事を出す	to offer a meal
+1339	しゃかいきょういく	社会教育	social education
+1341	さんまい	三枚	three flat objects
+1344	きって	切手	postage stamp
+1345	おもな	主な	main
+1346	りようする	利用する	to make use of
+1348	べんり[な]	便利[な]	convenient
+1349	おこなう	行う	to carry out; to conduct (usually used in written language)
+1350	いがい	以外	other than
+1352	にゅうがく	入学	admission to school
+1354	きこくする	帰国する	to return to one's home country
+1355	かならずしも～ない	必ずしも～ない	not necessarily
+1356	かいわ	会話	dialogue
+1359	けんきゅうしつ	研究室	[professor's] office
+1360	まい	枚	(counter for thin, flat objects such as sheets of paper)
+1005	きまつしけん	期末試験	final exam (lit., semester-end exam)
+1363	のこと		it's about ~
+1365	しかたない	仕方ない	It can't be helped.
+1366	けっこうです		That's fine.
+1368	もんぶしょう	文部省	Ministry of Education
+1369	ようし	用紙	form
+1370	あてさき	宛先	address to send mail to
+1371	ふうとう	封筒	envelope
+1374	ねつ	熱	fever
+1375	あたまがいたい	頭が痛い	to have a headache (lit., the head is hurting)
+1376	だいじょうぶ		all right
+1377	わるいけど	悪いけど	I am sorry, but
+1378	じょうほう	情報	information
+1379	おも[な]	主[な]	main
+1380	こうかんプログラム	交換プログラム	exchange program
+1381	べんりな	便利な	convenient
+1382	そのばあい	その場合	in that case
+1383	かず	数	number
+1384	だいたい		approximately; in most cases; in general
+1322	ふつう	普通	common; usual
+1387	おおければおおいほど	多ければ多いほど	the more [students] there are, the more ~
+1388	しょるいせんこう	書類選考	screening by application forms; selection by examining one's papers
+1389	せいせき	成績	grade; academic record
+748	せいかく	性格	character; personality
+1391	たいど	態度	attitude
+1392	はっきりする		to become clear
+1393	ゆうせんする	優先する	to give priority; to prefer
+1394	ほとんど～ない		hardly
+1395	たんい	単位	credit [for a course]
+1396	みとめる	認める	to recognize; to approve
+1397	こうしょうする	交渉する	to negotiate
+1398	わけではない		it's not the case that
+1399	りゅうがくせいべっか	留学生別科	special division for foreign students
+1400	こくさいがくぶ	国際学部	International Division
+1401	そのほか		besides; in addition
+1402	れきし	歴史	history
+1403	せいじ	政治	politics
+1404	しゅうきょう	宗教	religion
+640	しかし		however; but
+1406	サークルかつどう	サークル活動	extracurricular activities
+1407	なるべく		if possible; as~as possible
+1408	べきだ		should
+1409	かてい	家庭	home; family
+1410	ことができる		can
+1411	きぼう	希望	wish; hope
+1412	きぼうしゃ	希望者	one who wishes to do ~ （＝希望する人）
+1357	もの	者	person (＝人）
+1414	じゅうたくじじょう	住宅事情	housing conditions
+571	しゃしん	写真	picture; photograph
+1416	アメリカし	アメリカ史	American history
+735	おにいさん	お兄さん	[someone else's] older brother
+1419	にる	似る	to resemble
+1420	しゅう	州	province
+1421	じんこう	人口	population
+1422	まちがう	間違う	to make a mistake
+1423	みずうみ	湖	lake
+1425	つれる	連れる	to lead
+1093	ゆうしょく	夕食	dinner (lit., evening meal)
+1427	ひさしぶり	久しぶり	for the first time in a long time
+1428	ほんとう	本当	really; truly
+1429	すえ	末	end
+1430	あつい	暑い	hot (with reference to weather)
+1431	はやい	速い	fast; quick
+1432	こんがっき	今学期	this semester
+1434	やくにたつ	役に立つ	to be useful
+212	からだ	体	body; health
+1436	かわる	変わる	to change (v.i.)
+1437	ぶっきょう	仏教	Buddhism
+1438	しんぶんきじ	新聞記事	newspaper article
+1440	ごばい	五倍	5 times [as much]
+1242	こんばん	今晩	this evening
+1442	さいふ	財布	wallet
+1443	せい	背	one's height
+291	めずらしい	珍しい	rare
+1445	ぜんぜん	全然	not at all
+1446	しゅうと	州都	state capital
+1447	みなさん	皆さん	all of you
+1448	きょか	許可	permission
+1449	もとめる	求める	to request; to ask for
+1450	ぐうぜん	偶然	by chance
+1451	はいけい	拝啓	(formal greeting used at the beginning of a letter)
+1452	あたたかい	暖かい	pleasantly warm (with reference to weather)
+472	こうよう	紅葉	fall colors [of leaves]
+792	たつ	経つ	[time] passes
+1455	おもしろい	面白い	interesting
+1456	すむ	済む	need
+204	りょうり	料理	cooking; cuisine
+201	もの	物	thing
+1459	たいじゅう	体重	[body] weight
+1461	ひまな	暇な	free time
+1462	けいぐ	敬具	Sincerely (used at the end of a letter)
+731	さま	様	Dear ~ (added to the name of the addressee at the end of a letter)
+1464	ホームステイさき	ホームステイ先	留学生がホームステイをしている家
+192	べつに～ない	別に～ない	not particularly
+1466	いもうとさん	妹さん	[someone else's] younger sister
+1467	にている	似ている	to resemble [~] （～に）
+1468	かわいい		cute; lovely
+1469	ぜんぜん～ない	全然～ない	not at all
+1470	たしか		if I remember correctly
+1471	にばんめに	二番目に	second [largest]
+1472	へえ		Really? Gee! You're kidding.
+1473	ちじ	知事	governor
+1474	すばらしい		wonderful; terrific
+1475	こんどの	今度の	this [coming] ~
+1476	なんて		things like （＝などと）
+1478	たところだ		have just done something
+322	ほんとうに	本当に	really; truly
+1480	かまいません		it's all right; one doesn't mind
+1481	うえだ	上田	(family name)
+1482	みちこ	みち子	(female given name)
+1483	のように		like N
+1484	さえ		even
+1485	ごぶさたする		to neglect to write for a long time; not to correspond for some time
+1486	そのご	その後	since I saw you last; since that time
+1487	いつのまにか		before I knew it
+1488	だいぶ		fairly well; to a large extent; pretty much
+932	ひどい		terrible; awful
+1491	ショック		shock
+1492	ないですむ	ないで済む	to get by without ~ing; to come off without ~
+1494	ばい	倍	~ times [as much]
+1495	すぎる		to do something too much; too ~
+1496	ひまなとき	暇な時	free time
+1497	かた	方	(honorific form for 人)
+1498	よろしく		Say hello [to ~] for me. （～に）
+34	ほん	本	(1) book (2) counter for long objects
+102	かえる	帰る	to return; to go home
+139	はなし	話	chat; talk; story
+205	とくに	特に	particularly; especially
+234	ことば	言葉	language; word; expression
+437	する		(1) to do (2) to decide [~on] （〜に）(3) to cost (4) to wear small items (necktie, watch, etc.)
+445	め	目	(1) eyes (2) -th
+514	だす	出す	(1) to send; to mail (2) to take (something) out; to hand in (something)
+522	いれる	入れる	(1) to put (something) in (thing を person に) (2) to make tea, coffee, etc.
+526	あんないする	案内する	to guide; to show (someone) around
+556	また		again; in addition
+566	はっぴょうする	発表する	(1) to give a presentation (2) to make public; to publish
+613	ずいぶん		very; quite a lot
+659	おわる	終わる	to come to an end; to finish (v.i.)
+690	たすかる	助かる	to be saved; to be helped (v.i.)
+691	たのむ	頼む	to request; to ask (a favor)
+741	おおい	多い	many; there is/are a lot
+764	きまる	決まる	to be decided; to be set/fixed （〜が） (v.i.)
+772	よぶ	呼ぶ	(1) to call (one's name) (2) to call ~ by ...…で） (3) to invite
+794	たいへん	大変	(1) greatly (2) tough situation
+798	それでは		well then; if that is the case
+843	いただく	頂く	(1) extra-modest expression for たべる and のむ (2) humble expression for もらう
+945	はる	貼る	to paste; to attach; to post
+983	いっかい	一回	one time; per occasion
+992	いちばん	一番	the first; most
+998	あいて	相手	partner; addressee; the person you are talking to
