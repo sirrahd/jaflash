@@ -57,7 +57,24 @@ class Word(Base):
             return
         session.add(self)
         session.commit()
-        
+
+    def getAllChildren(self):
+        wordlist = []
+        q = session.query(Word).filter(Word.owner_id == self.id).all()
+        for word in q:
+            wordlist.append(word)
+            wordlist.extend(word.getAllChildren())
+
+        return wordlist
+
+    def minId(self):
+        minId = self.id
+        for word in self.getAllChildren():
+            if minId > word.id:
+                minId = word.id
+
+        return minId
+    
     def ownerOf(self, other):
         other.owner_id = self.id
         other.save()
@@ -112,7 +129,7 @@ class Word(Base):
         return trueDupes
         
     def toArray(self):
-        return [self.kana, self.kanji, self.definition]
+        return [self.minId(), self.kana, self.kanji, self.definition]
         
     def getAll():
         return session.query(Word).all()
